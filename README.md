@@ -1,3 +1,4 @@
+<img src="https://github.com/kboeh/kboeh/blob/main/banner.png" alt="banner that has a logo with the initials K.B.">
 ### Hi there 👋
 
 <!--
