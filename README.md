@@ -29,7 +29,7 @@ I also enjoy contributing to open source projects or using my skill set to help 
 
 - 💬 Ask me about anything within my skill set (check below). I love to help!
 
-- ⚡ Fun fact: I love making art on my Wacom using Photoshop and Illustrator.
+- ⚡ Fun fact: I love making art on my Wacom Cintiq tablet using Photoshop and Illustrator.
 
 
 </td><td valign="top" width="50%">
