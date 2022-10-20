@@ -27,9 +27,9 @@ I also enjoy contributing to open source projects or using my skill set to help 
 
 - 🤔 I’m looking for help with a pesky Jest test I have been working on. Also, I am always looking to find opportunities where I can use my skills to contribute.
 
-- 💬 Ask me about anything within my skillset (check below). I love to help!
+- 💬 Ask me about anything within my skill set (check below). I love to help!
 
-- ⚡ Fun fact: I've taught a wide range of kids to adults in my career as an educator. If you think I can help you get a better understanding of this tech stuff, please don't hesitate to ask.
+- ⚡ Fun fact: I love making art on my Wacom using Photoshop and Illustrator.
 
 
 </td><td valign="top" width="50%">
