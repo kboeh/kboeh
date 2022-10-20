@@ -7,7 +7,7 @@
 
 
 
-### Welcome!  
+# Welcome!  
 I am a teacher turned software developer. I enjoy the learning, problem solving, and creativity that comes with software development. I have a passion for designing and building stimulating content that offers responsive and smooth functionality for my users. I am constantly learning and practicing my craft and I am always excited to add the next skill to my toolbox.
 
 I also enjoy contributing to open source projects or using my skill set to help people achieve their own goals. When I'm not coding, you will find me spending time with my family. We like to go on hikes or immerse ourselves in gaming (either with dice or on a screen). I also enjoy creating digital art and photography.  
