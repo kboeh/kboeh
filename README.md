@@ -21,7 +21,7 @@ I also enjoy contributing to open source projects or using my skill set to help 
 
 - 🔭 I’m currently working on [Food Quest](https://github.com/kboeh/foodquest).  
 
-- 🌱 I’m currently learning Jest and Express.  
+- 🌱 I’m currently learning TypeScript.
 
 - 👯 I’m looking to collaborate on any front-end projects using React or vanilla HTML/CSS/JS.
 
