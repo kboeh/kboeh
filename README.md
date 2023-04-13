@@ -19,13 +19,13 @@ I also enjoy contributing to open source projects or using my skill set to help 
 ## Some quick facts...  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Food Quest](https://github.com/kboeh/foodquest).  
+<!-- - 🔭 I’m currently working on [Food Quest](https://github.com/kboeh/foodquest).   -->
 
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning MongoDB.
 
-- 👯 I’m looking to collaborate on any front-end projects using React or vanilla HTML/CSS/JS.
+<!-- - 👯 I’m looking to collaborate on any front-end projects using React or vanilla HTML/CSS/JS. -->
 
-- 🤔 I’m looking for help with a pesky Jest test I have been working on. Also, I am always looking to find opportunities where I can use my skills to contribute.
+<!-- - 🤔 I’m looking for help with a pesky Jest test I have been working on. Also, I am always looking to find opportunities where I can use my skills to contribute. -->
 
 - 💬 Ask me about anything within my skill set (check below). I love to help!
 
